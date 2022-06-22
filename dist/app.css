@@ -10935,6 +10935,13 @@ img.hover-shadow {
   height: 400px;
 }
 
+.linkBox {
+  width: 300px;
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+  border: 3px solid #ffffff;
+}
+
 /* latin */
 @font-face {
   font-family: "Droid Serif";
