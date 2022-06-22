@@ -1,7 +1,6 @@
 
 jQuery(document).ready(function($){
   //you can now use $ as your jQuery object.
-  console.log( "ready!" );
   $(".postContent").children("style").remove();
   $('[class*="wp-image"]').wrap('<div class="w-100 mx-auto">');
   $('[class*="wp-image"]').addClass("img-responsive hover-shadow botMarg");

@@ -89,7 +89,7 @@ Template Name: Mock Front
                 <img src="https://belcourpreserves.com/wp-content/uploads/2021/05/buttercon4.png" alt="butterfly" class="img-fluid" style="width: 45px; height: 45px;">
             </div>
             <p class="pSmall" style="text-align: center;">And for online purchase:</p>
-            <h4><a href="https://loshusansupermarket.com/brands/Belcour.html" target="_blank" rel="noopener">Loshusan's online store.</a></h4>
+            <div class="linkBox mx-auto mt-3 mb-4"><a href="https://loshusansupermarket.com/brands/Belcour.html" target="_blank" rel="noopener">Loshusan's online store</h4></div>
          </div>
     </div>
     <!-- Where to Buy -->

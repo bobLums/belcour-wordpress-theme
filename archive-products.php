@@ -13,7 +13,7 @@
 				<div class="col">
 					<h2 class="mb-4" style="color: #ffffff !important; font-size: 1.35rem;" class="mb-2" id="tobuy"><b>Available island-wide at major Jamaican supermarkets</b></h2>
 					<p class="pSmall" style="text-align: center;">And for online purchase:</p>
-					<h4><a href="https://loshusansupermarket.com/brands/Belcour.html" target="_blank" rel="noopener">Loshusan's online store.</a></h4>
+					<div class="linkBox mx-auto mt-3 mb-4"><a href="https://loshusansupermarket.com/brands/Belcour.html" target="_blank" rel="noopener">Loshusan's online store</a></div>
 					<div class="mx-auto mt-4 mb-4" style="width: 45px;">
 						<img src="https://belcourpreserves.com/wp-content/uploads/2021/01/beecon3.png" alt="bee" class="img-fluid" style="width: 45px; height: 45px;">
 					</div>
